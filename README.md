@@ -1,5 +1,4 @@
-
-Notes for Carla installation
+# Notes for Carla installation
 
 Install from package (Don't build from source)
 
