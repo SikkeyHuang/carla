@@ -28,3 +28,6 @@ add an object
 
 cd /opt/carla-simulator/PythonAPI/examples/examples/
 python record_datas_1.py
+
+get the location of all the spawn locations
+python extract_spawn_points.py 
